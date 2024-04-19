@@ -1,0 +1,256 @@
+#navi1{
+    height: 25px;
+    background-color: rgb(230, 239, 242);
+    list-style: none;
+    display: flex;
+    justify-content: space-around;
+}
+#lis{
+    margin-left: 1100px;
+    margin-top: 3px;
+
+}
+#sign{
+    margin-right: 50px;
+}
+div nav li{
+    margin-top: 3px;
+}
+#navi2{
+    height: 60px;
+    background-color: white;
+    list-style: none;
+    display: flex;
+}
+/* navi 2 */
+.navi2:hover{
+    box-shadow: 0px;
+    scale: 1.2;
+}
+
+#logo{
+    margin-right: 350px;
+    margin-left: 40px;
+    height: 60px ;
+    width: 100px;
+    background-image: url(https://cdn.wallpapersafari.com/98/5/78E3Lg.jpg);
+    background-size: 100px 60px;
+}
+#fea{
+    margin-top: 20px;
+    margin-right: 20px;
+    font-size: x-large;
+}
+#ser{
+    width: 150px;
+    margin-top: 9px;
+    margin-left: 75px;
+    border-radius: 10px;
+    font-size: large;
+}
+#like{
+    margin-top: 20px;
+    margin-left: 120px;
+}
+#bag{
+    margin-top: 20px;
+    margin-left: 30px;
+}
+#vid{
+    margin: 50px;
+    width: 1500px;
+    height: 600px;
+    margin-left: 0px;
+}
+#content{
+    margin-top: 70px;
+    list-style: none;
+}
+#l1
+{
+    font-size:  large;
+}
+#l2
+{
+    margin-top: 5px;
+    font-size: 10vh;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+
+}
+#l3
+{
+    margin-top: 15px;
+    font-size: large;
+}
+#l4
+{
+    font-size:  large;
+}
+#l5
+{
+    margin-top: 20px;
+    width: 90px;
+    font-size: x-large;
+    border: solid black 3px;
+    border-radius: 20px;
+    color: aliceblue;
+    background-color: black;
+    margin-bottom: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.btn:hover{
+        box-shadow: 0px;
+        scale: 1.1;
+}
+#bl4{
+    font-size: xx-large;
+    margin-left: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#pic1{
+    height: 750px;
+    width: 650px;
+    margin-top: 40px;
+    margin-left: 20px;
+    background-color: rgb(128, 126, 126);
+    background-image: url(/webpages/nike5.avif);
+    background-size: 650px 750px;
+    
+}
+#pic2{
+    height: 750px;
+    width: 650px;
+    margin-left: 700px;
+    margin-top: -750px;
+    margin-right: 50px;
+    background-color: rgb(128, 126, 126);
+    background-image: url(/webpages/nike1.avif);
+    background-size: 650px 750px;
+}
+#bl5{
+    font-size: xx-large;
+    margin-left: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+   
+    margin-top: 50px
+}
+#vid1{
+    margin-top: 20px;
+    height: 600px;
+    margin-left: 20px;
+    margin-right: 103px;
+    background-color: rgb(39, 32, 32);
+    background-image: url(https://static.nike.com/a/images/f_auto/dpr_1.3,cs_srgb/w_1423,c_limit/c13c2695-e894-4ab1-a11e-3dc2308fe56c/nike-training-club-app-home-workouts-more.jpg);
+    background-size: auto;
+}
+#bl77{
+    font-size: xx-large;
+    margin-left: 50px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 50px
+}
+#rs{
+    display: flex;
+    height: 500px;
+    margin-left: 20px;
+    margin-right: 103px;
+    background-color: brown;
+}
+.car
+{
+    height: 400px;
+    width: 400px;
+    background-color: thistle;
+    margin-top: 50px;
+    margin-left: 30px;
+
+}
+#bl6{
+    list-style: none;
+    margin-top: 50px;
+}
+#bbl5
+{
+    margin-top: 30px;
+    margin-right: 200px;
+    width: 100px;
+    font-size: x-large;
+    border: solid black 3px;
+    border-radius: 20px;
+    color: aliceblue;
+    background-color: black;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+#ref{
+    margin-top: -55px;
+    margin-left: 100px;
+}
+#bbl6
+{
+    margin-top: 20px;
+    width: 170px;
+    font-size: x-large;
+    border: solid black 3px;
+    border-radius: 20px;
+    color: aliceblue;
+    background-color: black;
+    margin-bottom: 100px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+} 
+#master{
+    height: 200px;
+    margin-left:270px;
+    margin-right: 100px;
+    list-style: none;
+}
+#bl7
+{
+    height: 160px;
+    width: 200px;
+    margin-left: 30px; 
+    justify-content: space-around;
+}
+#bl8
+{
+    height: 160px;
+    width: 200px;
+    margin-top: -160px;
+    margin-left: 250px;
+    margin-right: 200px;
+    font-size: large;
+}
+#bl9
+{
+    height: 160px;
+    width: 200px;
+    margin-top: -160px;
+    margin-left: 500px;
+    margin-right: 100px;
+    font-size: large;
+}
+#bl10{
+    height: 160px;
+    width: 200px;
+    margin-top: -161px;
+    margin-left: 750px;
+    font-size: large;
+}
+.tail{
+    padding: 8px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.tail:hover{
+        box-shadow: 0px;
+        scale: 1.2;
+}
+#head{
+    padding: 5px;
+    font-size: x-large;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 200;
+}
+footer{
+    height: 300px;
+    margin-top: 40px;
+    background-color: black;
+}
